@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TL:FQÉT, born in Vietnam
+- 👋 Hi, I’m Tran Lam:FQÉT, born in Vietnam
 - 👀 I was interested in computer tech from a long time ago
 - 🌱 My main subject is at backend engineering and I’m currently learning VueJs
 - 💞️ I’m looking to collaborate on everyone has the same programming hobby like me
