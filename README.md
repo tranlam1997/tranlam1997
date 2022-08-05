@@ -37,7 +37,7 @@
   
 |<h3><b>Primary</b></h3><img width=200/>|<h3><b>Learning</b></h3><img width=200/>|<h3><b>Future</b></h3><img width=200/>|
 |-------------------|------------------|-----------|
-| - Typescriptaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa| - VueJS          | - DevOps  |
+| - Typescript &nbsp; &nbsp; &nbsp;| - VueJS          | - DevOps  |
 | - NodeJS          | - Nuxt           |           |
 | - NestJS          | - Firebase       |           |
 | - ExpressJS       | - AWS            |           |
