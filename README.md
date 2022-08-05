@@ -32,8 +32,6 @@
 
 ---
 
-<br>
-
 ## ⚒️ **Languages And Techs**
 ### **Primary:**
 - Typescript
