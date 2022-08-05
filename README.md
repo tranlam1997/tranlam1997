@@ -35,7 +35,7 @@
 <br>
 <div align="center">
 
-|<div style="width:300px"><h3><b>Primary</b></h3></div>|<div style="width:300px"><h3><b>Learning</b></h3></div>|<h3><b>Future</b></h3>|
+|<div width="300px"><h3><b>Primary</b></h3></div>|<div style="width:300px"><h3><b>Learning</b></h3></div>|<h3><b>Future</b></h3>|
 |-------------------|------------------|-----------|
 | - Typescript      | - VueJS          | - DevOps  |
 | - NodeJS          | - Nuxt           |           |
