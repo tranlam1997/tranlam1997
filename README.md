@@ -45,3 +45,5 @@
 - Nuxt
 - Firebase
 - AWS
+### **Future**
+- DevOps
