@@ -35,6 +35,7 @@
 <br>
 <div align="center">
 <img width=800/>
+  
 |<h3><b>Primary</b></h3><img width=200/>|<h3><b>Learning</b></h3><img width=200/>|<h3><b>Future</b></h3><img width=200/>|
 |-------------------|------------------|-----------|
 | - Typescript      | - VueJS          | - DevOps  |
