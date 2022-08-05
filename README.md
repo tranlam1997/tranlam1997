@@ -25,7 +25,7 @@
 - 🔙 I'm a **Back-End NodeJS Developer** .
 - 🚅 Currently I'm working and researching on **Front-End** too. **VueJS** is my favorite and in progress so far!
 - 🔥 Anything related to coding and tech will trigger my curiosity. 
-- 👫 I’m looking to collaborate on everyone has the same programming hobby like me.
+- 👫 I’m willing to collaborate on every developers out there and love working on open source projects by all means.
 
 <br>
 
