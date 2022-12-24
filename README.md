@@ -41,7 +41,7 @@
 | NodeJS          | Nuxt           |        |
 | NestJS          | Firebase       |        |
 | ExpressJS       | AWS            |        |
-| MongoDB         |                |        |  
-| MySQL 	        |                |        | 
+| MongoDB         | Docker               |        |  
+| MySQL 	        | Kubernetes               |        | 
 </div>
 
