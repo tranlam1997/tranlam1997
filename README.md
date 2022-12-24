@@ -42,6 +42,6 @@
 | NestJS          | AWS            |        |
 | ExpressJS       | Docker         |        |
 | MongoDB         | Kubernetes     |        |  
-| MySQL 	        |                |        | 
+| MySQL 	        | React          |        | 
 </div>
 
