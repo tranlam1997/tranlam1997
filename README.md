@@ -39,7 +39,7 @@
 | :-------------------------------------: | :------------------: | :-----------: |
 | Typescript      | VueJS          | DevOps |
 | NodeJS          | Firebase       | Machine Learning     |
-| NestJS          | AWS            |        |
+| NestJS          | AWS            | Mobile      |
 | ExpressJS       | Docker         |        |
 | MongoDB         | Kubernetes     |        |  
 | MySQL 	        | ReactJS        |        | 
