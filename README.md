@@ -43,5 +43,8 @@
 | ExpressJS       | Docker         |        |
 | MongoDB         | Kubernetes     |        |  
 | MySQL 	        | ReactJS        |        | 
+| MariaDB         |                |        |
+| PostgreSQL      |                |        |
+| Koa             |                |        |
 </div>
 
