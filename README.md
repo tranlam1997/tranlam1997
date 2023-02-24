@@ -40,7 +40,7 @@
 | Typescript      | VueJS          | DevOps |
 | NodeJS          | AWS            | Machine Learning     |
 | NestJS          | Docker         | Mobile      |
-| ExpressJS       | Kubernetes     |        |
+| ExpressJS       | Kubernetes     | Big Data       |
 | MongoDB         | ReactJS        |        |  
 | MySQL 	        |                |        | 
 | MariaDB         |                |        |
