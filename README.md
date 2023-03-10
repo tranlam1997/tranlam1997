@@ -23,7 +23,7 @@
 ## 👼 **About Me**
 - 💌 Hi everyone, my full name is **Tran Tuan Lam**. I was born in **Vietnam** which  is a beautiful  and peaceful  country with variety of famous landscapes such as Ha Long Bay, Hoi An Old quarter,...
 - 🔙 I'm a **Back-End NodeJS Developer** .
-- 🚅 Currently I'm working and researching on **Front-End** too. **VueJS** is my favorite and in progress so far!
+- 🚅 Currently I'm working and researching on **Front-End** too. **VueJS** is my  favorite and in progress so far!
 - 🔥 Anything related to coding and tech will trigger my curiosity. 
 - 👫 I’m willing to collaborate on every developers out there  and love working on  open source projects by all means.
 
