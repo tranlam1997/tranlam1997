@@ -24,8 +24,8 @@
 - 💌 Hi everyone, my name is **Tran Lam** and I was born in **Vietnam**.
 - 🔙 I'm a **Back-End Engineer** .
 - 🚅 Currently I'm working and researching on **Front-End** too.
-- 🔥 Anything related to coding and tech will trigger  my curiosity. 
-- 👫 I’m willing to collaborate on every developers out there  and love working on open source projects by all means.
+- 🔥 Anything related to coding and tech will trigger my curiosity. 
+- 👫 I’m willing to collaborate on every developers out there and love working on open source projects by all means.
 
 <br>
 
