@@ -42,7 +42,7 @@
 | NestJS          | Docker         | Mobile      |
 | ExpressJS       | Kubernetes     | Big Data       |
 | MongoDB         | ReactJS        |        |  
-| MySQL 	        | Pythong        |        | 
+| MySQL 	        | Python         |        | 
 | MariaDB         |                |        |
 | PostgreSQL      |                |        |
 | Koa             |                |        |
