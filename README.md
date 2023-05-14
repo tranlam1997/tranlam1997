@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-                                    Nothing Is Absolute 💪
+                                    Every cloud has a silver lining 
 </div>
 
 
