@@ -21,7 +21,7 @@
 <br>
 
 ## 👼 **About Me**
-- 💌 Hi everyone, my name is **Tran Lam** and  I was  born  in **Vietnam**.
+- 💌 Hi everyone, my name is **Tran Lam** and  I was  born in **Vietnam**.
 - 🔙 I'm a **Full-stack Engineer** .
 - 🚅 Currently I'm working and researching on **AI** too.
 - 🔥 Anything related to coding and tech will trigger my curiosity. 
