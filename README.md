@@ -25,7 +25,7 @@
 - 🔙 I'm a **Full-stack Engineer** .
 - 🚅 Currently I'm working and researching on **AI** too.
 - 🔥 Anything related to coding and tech will trigger my curiosity. 
-- 👫 I’m willing to collaborate with every developer  out there and love working on open-source projects by all means.
+- 👫 I’m willing to collaborate with every developer  out there and  love working on open-source projects by all means.
 
 <br>
 
