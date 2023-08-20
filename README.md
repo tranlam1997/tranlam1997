@@ -21,11 +21,7 @@
 <br>
 
 ## 👼 **About Me**
-- 💌 Hi everyone, my name is **Tran Lam** and I was born  in **Vietnam**.
-- 🔙 I'm a **Full-stack Engineer** .
-- 🚅 Currently I'm working and researching on **AI** too.
-- 🔥 Anything related to coding and tech will trigger my curiosity. 
-- 👫 I’m willing to collaborate with every developer out there and love working   on open-source projects by all means.
+👋 Backend magician weaving the threads of code to orchestrate digital symphonies. From database sorcery to API enchantments, I craft the unseen foundations that power our digital realms. Passionate about optimizing for speed, scalability, and seamless user experiences. When I'm not immersed in lines of code, you'll find me exploring the realms of fantasy literature and concocting my own culinary spells. Let's collaborate and conjure some exceptional software together
 
 <br>
 
