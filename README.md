@@ -21,7 +21,7 @@
 <br>
 
 ## 👼 **About Me**
-👋 Backend magician weaving the threads of code to orchestrate digital symphonies. From database sorcery to API enchantments, I craft the unseen foundations that power our digital realms. Passionate about optimizing for speed, scalability, and seamless user experiences. When I'm not immersed in lines of code, you'll find me exploring the realms of fantasy literature and concocting my own culinary spells. Let's collaborate and conjure some exceptional software together
+👋 Backend magician weaving the threads of code to orchestrate digital symphonies. From database sorcery to API enchantments, I craft the unseen foundations that power our digital realms. Passionate about optimizing for speed, scalability, and seamless user experiences. When I'm not immersed in lines of code, you'll find me exploring the realms of fantasy literature and concocting my own culinary spells. Let's collaborate and conjure some exceptional software together.
 
 <br>
 
